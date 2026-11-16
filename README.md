@@ -15,12 +15,12 @@ winding road to stop waves of flying saucers, across three battlefields that end
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/TowerDefenseBasicTemplate](https://trysac.github.io/TowerDefenseBasicTemplate/)
+- **In your browser:** [trysac.github.io/g009-saucer-siege](https://trysac.github.io/g009-saucer-siege/)
 - **On itch.io:** [trysac.itch.io/saucer-siege](https://trysac.itch.io/saucer-siege)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/TowerDefenseBasicTemplate.git
+  git clone https://github.com/Trysac/g009-saucer-siege.git
   ```
 
 ## Run it
